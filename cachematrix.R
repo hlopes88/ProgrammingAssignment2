@@ -1,6 +1,6 @@
 # See README.md for instructions in how to run the code and get output from it
 # The assignment states that running the code is not part of the grading 
-# but I have the instructions anyway.
+# but I have the instructions anyway .
 
 # makeCacheMatrix is a function that returns a list of functions
 # Its purpose is to store a matrix and a cache value of the inverse of the 
